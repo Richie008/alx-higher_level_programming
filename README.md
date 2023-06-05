@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-python 
+this is a new alx repository
