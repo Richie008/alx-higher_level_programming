@@ -1,10 +1,11 @@
 #!/usr/bin/python3
 
-a = 10
-b = 5
+if __name__ == "__main__":
 
 from calculator_1 import add, subtract, multiply, divide
 
+a = 10
+b = 5
 add_result = add(a, b)
 subtract_result = subtract(a, b)
 multiply_result = multiply(a, b)
